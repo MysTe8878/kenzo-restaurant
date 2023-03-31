@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kenzo/static/css/main.073c9b0a.css",
+    "main.js": "/kenzo/static/js/main.a4b0c0eb.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/kenzo/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/kenzo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kenzo/index.html",
+    "main.073c9b0a.css.map": "/kenzo/static/css/main.073c9b0a.css.map",
+    "main.a4b0c0eb.js.map": "/kenzo/static/js/main.a4b0c0eb.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/kenzo/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a4b0c0eb.js"
+  ]
+}
